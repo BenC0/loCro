@@ -1,0 +1,15 @@
+{
+  "name": "localhost",
+  "version": "1.0.0",
+  "description": "localhost",
+  "main": "V1.js",
+  "scripts": {
+    "test": "\"This is a test...\"",
+    "start": "live-server"
+  },
+  "author": "Benji Cohen",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

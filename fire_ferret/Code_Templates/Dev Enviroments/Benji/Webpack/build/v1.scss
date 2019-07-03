@@ -1,0 +1,9 @@
+/* Doesn't generate any CSS on it's own. */
+@import "./lib";
+
+/* Required so styles aren't applied before JS is able to run */
+.variant_loaded {
+	* {
+		outline: 1px solid red;
+	}
+}

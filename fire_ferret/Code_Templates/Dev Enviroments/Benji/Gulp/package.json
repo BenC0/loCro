@@ -1,0 +1,21 @@
+{
+  "name": "ab_test_template",
+  "version": "1.0.0",
+  "description": "AB Test Template",
+  "main": "V1.js",
+  "scripts": {
+    "test": "\"This is a test...\""
+  },
+  "author": "Benji Cohen",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "run-sequence": "^2.2.0"
+  }
+}

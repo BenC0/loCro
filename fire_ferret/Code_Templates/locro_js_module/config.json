@@ -1,0 +1,12 @@
+{
+	"variations": [
+		{
+			"variation": 1,
+			"aliases": ["v1", "1"],
+			"files": {
+				"js": "v1.js",
+				"css": "v1.css"
+			}
+		}
+	]
+}

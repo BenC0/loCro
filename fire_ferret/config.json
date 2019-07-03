@@ -1,0 +1,7 @@
+{
+	"client_directory": "C:\\Users\\bcohen05\\Desktop\\Work (local)\\locro\\test_dir\\",
+	"test_id": "aol01",
+	"url": "https://www.aspinaloflondon.com/",
+	"enviroment_template": "Code_Templates\\Dev Enviroments\\Benji\\Webpack",
+	"mobile_device": "false"
+}

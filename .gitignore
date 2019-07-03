@@ -1,0 +1,7 @@
+*_log.txt
+/.pytest_cache/*
+*/.pytest_cache/*
+/__pycache__/*
+**/__pycache__/*
+
+/test_dir*
